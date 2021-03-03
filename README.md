@@ -1,5 +1,5 @@
 ### Hello my friend! Ta de brinkaixon tiu me ?👋
-![image](https://user-images.githubusercontent.com/53869823/109566182-e7b6fe00-7ab9-11eb-8693-81b4325b8e74.png)
+![All Text](https://media3.giphy.com/media/Um3ljJl8jrnHy/200.gif)
 <!--
 **luketflp/luketflp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
