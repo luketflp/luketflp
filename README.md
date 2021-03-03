@@ -1,4 +1,3 @@
-### Hi! My name is Lucas, i'm a developer. 👋
 - ![All Text](https://media3.giphy.com/media/Um3ljJl8jrnHy/200.gif)
 <!--
 **luketflp/luketflp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
