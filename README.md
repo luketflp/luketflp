@@ -1,8 +1,9 @@
 ### Hi! My name is Lucas, i'm a developer. 👋
 - 🔭 I’m currently working on Binamik Tecnology ...
 - 🌱 I’m currently learning web frameworks ...
-- 📫 How to reach me: lucas@binamik.com.br 
-- 😄 Instagram: @luccasalex_ ![All Text](https://media3.giphy.com/media/Um3ljJl8jrnHy/200.gif)
+- 📫 Email: lucasalexander.exe@gmail.com 
+- 😄 Instagram: @luccasalex_
+- ![All Text](https://media3.giphy.com/media/Um3ljJl8jrnHy/200.gif)
 <!--
 **luketflp/luketflp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
