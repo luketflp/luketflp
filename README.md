@@ -1,9 +1,9 @@
-### Hi there 👋
+# Olá, seja bem-vindo! 👋🤖
 
 <!--
 **luketflp/luketflp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
