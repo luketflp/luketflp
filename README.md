@@ -1,6 +1,9 @@
 # Olá, seja bem-vindo! 👋🤖
 
 ### Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.
+  ● Desenvolvedor Full-Stack 🤓
+  ● Apaixonado por tecnologia 💻
+  ●
 <!--
 **luketflp/luketflp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
