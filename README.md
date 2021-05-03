@@ -1,11 +1,14 @@
 # Olá, seja bem-vindo(a)! <img src="https://monophy.com/media/quEEziksvnJubvbe2K/monophy.gif" width="32" height="32"/>
 
 ## Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.
+<p>
 <ul>
   <li>Desenvolvedor Full-Stack 🤓</li>
   <li>Apaixonado por tecnologia 💻</li>
   <li>Não faça drama, faça café ☕</li>
-</ul> <img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />
+</ul>
+<img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />
+</p>
 
 #### ● Desenvolvedor Full-Stack 🤓
 #### ● Apaixonado por tecnologia 💻
