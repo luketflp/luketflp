@@ -8,7 +8,7 @@
    <li>Apaixonado por tecnologia 💻 </li>
    <li>Não faça drama, faça café ☕ </li>
   </ul>
-  <img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />
+  <img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" width="25" />
  </div>
 <H3/>
 
