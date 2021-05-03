@@ -1,4 +1,4 @@
-<H1>Olá, seja bem-vindo(a)!<img src="https://monophy.com/media/quEEziksvnJubvbe2K/monophy.gif" width="50%"/></H1>
+<H1 width="50%" >Olá, seja bem-vindo(a)!<img src="https://monophy.com/media/quEEziksvnJubvbe2K/monophy.gif" width="32" height="32"/></H1>
 
 <H2>Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.</H2>
 
