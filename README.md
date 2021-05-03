@@ -2,10 +2,7 @@
 
 <H2>Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.</H2>
 
-              :--: | :--:
-:-------------------------:|:-------------------------:
-testando  |  <img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />
-
+<img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />
 
 <H3>
  <div width="100">
