@@ -2,7 +2,7 @@
 
 ## Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.
 <img src="https://monophy.com/media/quEEziksvnJubvbe2K/monophy.gif" width="32" height="32"/>
-|
+
  ### ● Desenvolvedor Full-Stack 🤓     |
  ### ● Apaixonado por tecnologia 💻    |  ![Mind Blow](https://i.pinimg.com/originals/fe/91/a3/fe91a3dc38b1981226c5c025fc759674.gif)
  ### ● Não faça drama, faça café ☕     |
