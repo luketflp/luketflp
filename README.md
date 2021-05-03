@@ -1,13 +1,13 @@
 # Olá, seja bem-vindo(a)! <img src="https://monophy.com/media/quEEziksvnJubvbe2K/monophy.gif" width="32" height="32"/>
 
-## Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação. <img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />
-<p>
-<ul>
+## Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.
+<p width="100%" >
+<ul width="50%" >
   <li>Desenvolvedor Full-Stack 🤓</li>
   <li>Apaixonado por tecnologia 💻</li>
   <li>Não faça drama, faça café ☕</li>
 </ul>
-
+<img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" width="50%" />
 </p>
 
                                                                                                                                                          
