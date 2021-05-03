@@ -5,5 +5,5 @@
  ### ● Desenvolvedor Full-Stack 🤓
  ### ● Apaixonado por tecnologia 💻
 
-[![Luket Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketflp&layout=compact&theme=radical)](https://github.com/luketflp/github-readme-stats)
-![Luket Stats](https://github-readme-stats.vercel.app/api?username=luketflp&theme=radical&show_icons=true)
+[![Luket Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketflp&layout=compact&theme=radical)](https://github.com/luketflp/github-readme-stats =200x200)
+![Luket Stats](https://github-readme-stats.vercel.app/api?username=luketflp&theme=radical&show_icons=true =200x200)
