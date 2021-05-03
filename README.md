@@ -4,7 +4,7 @@
  ### ● Desenvolvedor Full-Stack 🤓
  ### ● Apaixonado por tecnologia 💻
  ### ● 
- ![Teste](https://media2.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+ ![Teste](https://vistapointe.net/images/mind-blown-wallpaper-7.jpg)
 <!--
 **luketflp/luketflp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
