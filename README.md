@@ -2,7 +2,7 @@
 ## Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.
  ### ● Desenvolvedor Full-Stack 🤓
  ### ● Apaixonado por tecnologia 💻
- ### ● <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" width="200" height="200" />
+ ### ● ![Python Icon](https://www.flaticon.com/svg/vstatic/svg/2621/2621053.svg?token=exp=1620010642~hmac=348b5c5329c5aea6afacaec09e1c29fb)
 ![Teste](https://media.tenor.com/images/a481f90b32a045b61d0c1de6bf893a5b/tenor.gif)
  
 [![Luket Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketflp&layout=compact&theme=radical)](https://github.com/luketflp/github-readme-stats)
