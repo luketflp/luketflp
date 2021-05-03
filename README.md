@@ -5,5 +5,5 @@
     <H3>● Apaixonado por tecnologia 💻</H3>
     <H3>● Não faça drama, faça café ☕</H3>
   </div>
-  ![Mind Blow](https://media.tenor.com/images/1c44ea89efe8f2bfe44e6a0d3bf8051f/tenor.gif)
+  <img src"https://media.tenor.com/images/1c44ea89efe8f2bfe44e6a0d3bf8051f/tenor.gif" />
 </div>
