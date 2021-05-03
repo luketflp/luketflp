@@ -5,7 +5,7 @@
   <li>Desenvolvedor Full-Stack 🤓</li>
   <li>Apaixonado por tecnologia 💻</li>
   <li>Não faça drama, faça café ☕</li>
-</ul> ![Dog Gif](https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1)    
+</ul> <img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />
 
 #### ● Desenvolvedor Full-Stack 🤓
 #### ● Apaixonado por tecnologia 💻
