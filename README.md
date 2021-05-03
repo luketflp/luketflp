@@ -2,7 +2,7 @@
 
 | ## Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação. | :--: | 
 | ### ● Desenvolvedor Full-Stack 🤓 | :--: |
-| ### ● Apaixonado por tecnologia 💻 | <img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />|
+| ### ● Apaixonado por tecnologia 💻 | <img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" /> |
 | ### ● Não faça drama, faça café ☕ | :--: |
 
                                                                                                                                                          
