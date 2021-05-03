@@ -2,11 +2,13 @@
 
 <H2>Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.</H2>
 <H3>
- <ul>
-  <li>Desenvolvedor Full-Stack 🤓</li>
-  <li>Apaixonado por tecnologia 💻 </li>
-  <li>Não faça drama, faça café ☕ </li>
- </ul><img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />
+ <div>
+  <ul>
+   <li>Desenvolvedor Full-Stack 🤓</li>
+   <li>Apaixonado por tecnologia 💻 </li>
+   <li>Não faça drama, faça café ☕ </li>
+  </ul><img src="https://cdn.mensagenscomamor.com/content/images/m000499074.gif?v=1" />
+ </div>
 <H3/>
 
 
