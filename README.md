@@ -1,8 +1,7 @@
 <div>
    <H1 width="50">Olá, seja bem-vindo(a)!<img src="https://camo.githubusercontent.com/9ff917a34baf78e3fdbaf8370cf42e756041270610f0466dc9af2c0d9184db7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66396a514c614b4a4a6c36644c30416d6d5a2f67697068792e676966" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="32" height="32" /></H1>
    <img src="https://i.pinimg.com/originals/3e/51/a3/3e51a32ce7b96a5a3849e2abf09aeaf9.gif" align="right" />
-<H4>Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação.<img src="https://animated.name/uploads/posts/2016-08/1471201938_602.gif" width="36" height="36"/>
-</H4>
+<H4>Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação. <img src="https://image.flaticon.com/icons/png/512/264/264640.png" width="32" heigth="32"/> </H4>
    <p align="left">
       <ul>
       <li>Desenvolvedor Full-Stack 🤓</li>
