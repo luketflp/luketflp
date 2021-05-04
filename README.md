@@ -5,7 +5,7 @@
 <div>
    <img src="https://i1.wp.com/boingboing.net/wp-content/uploads/2019/01/giphy-3.gif?fit=1&resize=620%2C4000&ssl=1" align="right" />
    <p align="left">
-      <ul width="50">
+      <ul>
       <li>Desenvolvedor Full-Stack 🤓</li>
       <li>Apaixonado por tecnologia 💻 </li>
       <li>Não faça drama, faça café ☕ </li>
@@ -13,7 +13,6 @@
    </p>
 </div>
 
-***
 
 <H2>🛠️ Tecnologias|Ferramentas:</H2>
 
