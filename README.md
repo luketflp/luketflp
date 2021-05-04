@@ -2,16 +2,16 @@
 
 <H2>Meu nome é Lucas, tenho 20 anos e curso Ciências da Computação. <img src="https://camo.githubusercontent.com/9ff917a34baf78e3fdbaf8370cf42e756041270610f0466dc9af2c0d9184db7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66396a514c614b4a4a6c36644c30416d6d5a2f67697068792e676966" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="32" height="32" /></H2>
 
-<H3>
-<p float="left">
-   <ul width="25">
-    <li>Desenvolvedor Full-Stack 🤓</li>
-    <li>Apaixonado por tecnologia 💻 </li>
-    <li>Não faça drama, faça café ☕ </li>
-   </ul>
-  <img src="https://camo.githubusercontent.com/d37806893b1919a29b044091782b5da1be200b57d092fac4e48cc4aad8669cf3/68747470733a2f2f63646e2e6d656e736167656e73636f6d616d6f722e636f6d2f636f6e74656e742f696d616765732f6d3030303439393037342e6769663f763d31" align="right" />
-</p>
-</H3>
+<div>
+   <p float="left">
+      <ul width="25">
+      <li>Desenvolvedor Full-Stack 🤓</li>
+      <li>Apaixonado por tecnologia 💻 </li>
+      <li>Não faça drama, faça café ☕ </li>
+      </ul>
+   <img src="https://camo.githubusercontent.com/d37806893b1919a29b044091782b5da1be200b57d092fac4e48cc4aad8669cf3/68747470733a2f2f63646e2e6d656e736167656e73636f6d616d6f722e636f6d2f636f6e74656e742f696d616765732f6d3030303439393037342e6769663f763d31" align="right" />
+   </p>
+</div>
 
 
 ## 🛠️ Tecnologias|Ferramentas:
