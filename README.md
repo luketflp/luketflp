@@ -6,7 +6,7 @@
 
 <H3>
  <div width="100">
-  <div width="25">
+  <div height="25">
    <ul>
     <li>Desenvolvedor Full-Stack 🤓</li>
     <li>Apaixonado por tecnologia 💻 </li>
