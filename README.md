@@ -4,7 +4,7 @@
 
 <H3>
 <p float="left">
-   <ul>
+   <ul width="25">
     <li>Desenvolvedor Full-Stack 🤓</li>
     <li>Apaixonado por tecnologia 💻 </li>
     <li>Não faça drama, faça café ☕ </li>
