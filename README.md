@@ -6,8 +6,8 @@
 </header>
 <body>
 <H3>
- <div width="50">
-  <ul width="25">
+ <div width="25">
+  <ul>
    <li>Desenvolvedor Full-Stack 🤓</li>
    <li>Apaixonado por tecnologia 💻 </li>
    <li>Não faça drama, faça café ☕ </li>
