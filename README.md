@@ -1,6 +1,6 @@
 <div>
    <H1>Oiii, seja bem-vindo(a)!<img src="https://camo.githubusercontent.com/9ff917a34baf78e3fdbaf8370cf42e756041270610f0466dc9af2c0d9184db7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66396a514c614b4a4a6c36644c30416d6d5a2f67697068792e676966" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="32" height="50" /></H1>
-   <img src="https://media0.giphy.com/media/Z5HVfEvnxr67u/giphy.gif?cid=ecf05e472bbbmfwm6mus9gjhp3fye6qcf4rust4ayvv4o4ha&rid=giphy.gif&ct=g" height="230" align="right" />
+   <img src="https://media4.giphy.com/media/Tp0DoOS8C7eBG/giphy.gif?cid=ecf05e47yw4320f83ch8q0s4dgfbulc8nen81xcataisqcdz&rid=giphy.gif&ct=g" height="230" align="right" />
 <H4>Sou Lucas, tenho 20 anos e curso Ciências da Computação 👇 </H4>
    <p align="left">
       <ul>
