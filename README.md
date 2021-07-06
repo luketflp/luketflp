@@ -4,7 +4,7 @@
 <H4>Sou Lucas, tenho 20 anos e curso Ciências da Computação 👇 </H4>
    <p align="left">
       <ul>
-      <li>Desenvolvedor Full-Stack 🤓</li>
+      <li>Desenvolvedor Junior Full-Stack 🤓</li>
       <li>Apaixonado por tecnologia 💻 </li>
       <li>Não faça drama, faça café ☕ </li>
       </ul>
