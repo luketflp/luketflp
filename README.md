@@ -5,7 +5,7 @@
    <p align="left">
       <ul>
       <li>Junior Full Stack Developer 🤓</li>
-      <li>In love with technology 💻 </li>
+      <li>Technology lover 💻 </li>
       <li>Don't make drama, make coffee ☕ </li>
       </ul>
    </p>
