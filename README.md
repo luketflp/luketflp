@@ -6,7 +6,7 @@
       <ul>
       <li>Junior Full Stack Developer 🤓</li>
       <li>Technology lover 💻 </li>
-      <li>bro you should approve my PR </li>
+      <li>approve my PR bro</li>
       </ul>
    </p>
 </div>
