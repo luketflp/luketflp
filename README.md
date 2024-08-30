@@ -4,7 +4,7 @@
 <H4>I'm Lucas, 23 years old and I'm studying Computer Science 👇 </H4>
    <p align="left">
       <ul>
-      <li>Junior Full Stack Developer 🤓</li>
+      <li>Mid-Level Full Stack Engineer 🤓</li>
       <li>Technology lover 💻 </li>
       <li>approve my PR bro</li>
       </ul>
