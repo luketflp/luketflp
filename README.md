@@ -1,6 +1,6 @@
 <div>
    <H1>Hey, welcome!🥰</H1>
-<H4>I'm Lucas, 24 years old and I'm studying Computer Science 👇 </H4>
+<H4>I'm Lucas, 24 years old and a Full Stack Engineer  👇</H4>
    <p align="left">
       <ul>
       <li>Mid-Level Full Stack Engineer 🤓</li>
