@@ -1,6 +1,5 @@
 <div>
-   <H1>Hey, welcome! </H1> <img src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3JtNTg2YmF0Y2gyLWVtb2ppLTAxOC5wbmc.png'/>
-   <img src="https://media4.giphy.com/media/Tp0DoOS8C7eBG/giphy.gif?cid=ecf05e47yw4320f83ch8q0s4dgfbulc8nen81xcataisqcdz&rid=giphy.gif&ct=g" height="230" align="right" />
+   <H1>Hey, welcome!🥰</H1>
 <H4>I'm Lucas, 24 years old and I'm studying Computer Science 👇 </H4>
    <p align="left">
       <ul>
