@@ -22,7 +22,7 @@
    <H2>🛠️ Technology|Tools:</H2>
 </div>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,mongodb&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,javascript,ruby,nextjs,react,mongodb,postgres&titles=true)
 
 
 
