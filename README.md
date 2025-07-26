@@ -26,7 +26,12 @@
 
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luketflp&layout=compact&theme=radical" alt="Top languages" width="400" height="195"/> <img src="https://github-readme-stats.vercel.app/api?username=luketflp&show_icons=true&theme=radical" alt="GitHub stats" width="400" height="195"/> </div>
+## 📊 GitHub Stats & Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luketflp&layout=compact&theme=radical&langs_count=6&exclude_repo=repo1,repo2" alt="Top Languages" width="400" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luketflp&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats" width="400" height="195" />
+</div>
 
 <img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" />
 
